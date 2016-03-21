@@ -1,4 +1,4 @@
-# gurl
+# gosh
 go url shortener
 
 * goji web framework
